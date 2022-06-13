@@ -38,7 +38,7 @@
 
 > ```Xgradient Boost Performance```
 > 
-<img src="img\light gradient boost performance.png" width="350">
+<img src="img\Xgradient boost performance.JPG" width="350">
 
 > ```Light Gradient Boost Performance```
 > 
