@@ -26,6 +26,8 @@
 ## PERFORMANCE
 * The average performance of the model was measure using using the classification report which include precision, recall, f1-score and accuracy
 * The performance of all the model is included below
+
+
 ```Logistic Regression Performance```
 <img src="img\logistic regression performance.JPG" width="350">
 
