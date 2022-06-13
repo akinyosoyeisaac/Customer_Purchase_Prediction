@@ -27,20 +27,19 @@
 * The average performance of the model was measure using using the classification report which include precision, recall, f1-score and accuracy
 * The performance of all the model is included below
 ```Logistic Regression Performance```
-<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/logistic%20regression%20performance.JPG" width="350">
-![picture](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/logistic%20regression%20performance.JPG)
+<img src="img\logistic regression performance.JPG" width="350">
 
 ```Random Forest Performance```
-<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/random%20forest%20performance.JPG" width="350">
+<img src="img\random forest performance.JPG" width="350">
 
 ```Xgradient Boost Performance```
-<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/Xgradient%20boost%20performance.JPG" width="350">
+<img src="img\light gradient boost performance.png" width="350">
 
 ```Light Gradient Boost Performance```
-<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/light%20gradient%20boost%20performance.JPG" width="350">
+<img src="img\light gradient boost performance.JPG" width="350">
 
 ```Stacking Performance```
-<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/stacking%20performance.JPG" width="350">
+<img src="img\stacking performance.JPG" width="350">
 
 
 ## DEPLOYMENT
