@@ -29,16 +29,20 @@
 ```Logistic Regression Performance```
 <img src="img\logistic regression performance.JPG" width="350">
 
-```Random Forest Performance```
+> ```Random Forest Performance```
+>
 <img src="img\random forest performance.JPG" width="350">
 
-```Xgradient Boost Performance```
+> ```Xgradient Boost Performance```
+> 
 <img src="img\light gradient boost performance.png" width="350">
 
-```Light Gradient Boost Performance```
+> ```Light Gradient Boost Performance```
+> 
 <img src="img\light gradient boost performance.JPG" width="350">
 
-```Stacking Performance```
+> ```Stacking Performance```
+> 
 <img src="img\stacking performance.JPG" width="350">
 
 
