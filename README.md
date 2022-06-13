@@ -28,7 +28,8 @@
 * The performance of all the model is included below
 
 
-```Logistic Regression Performance```
+> ```Logistic Regression Performance```
+> 
 <img src="img\logistic regression performance.JPG" width="350">
 
 > ```Random Forest Performance```
