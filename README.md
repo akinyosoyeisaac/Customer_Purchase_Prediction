@@ -28,6 +28,7 @@
 * The performance of all the model is included below
 ```Logistic Regression Performance```
 <img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/logistic%20regression%20performance.JPG" width="350">
+![picture](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/logistic%20regression%20performance.JPG)
 
 ```Random Forest Performance```
 <img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/random%20forest%20performance.JPG" width="350">
