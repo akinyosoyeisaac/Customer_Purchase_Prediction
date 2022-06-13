@@ -15,31 +15,31 @@
 
 ## WORKFLOW
 > An easy guide in working through this notebook includes
->> 1. [Data exploration]()
->> 2. [Feature engineering]()
->> 3. [Logistic Reg (baseline model)]()
->> 5. [RandomForest Model]()
->> 6. [Xgradient Boost]()
->> 7. [Light Gradient Boost]()
->> 8. [Stack Model (Final Model)]()
+>> 1. [Data exploration](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/data%20exploration.ipynb)
+>> 2. [Feature engineering](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/feature%20engineering.ipynb)
+>> 3. [Logistic Reg (baseline model)](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/logistic%20reg.ipynb)
+>> 5. [RandomForest Model](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/RandomForest%20Model.ipynb)
+>> 6. [Xgradient Boost](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/xgradient-boost.ipynb)
+>> 7. [Light Gradient Boost](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/light-Gradient-Boost.ipynb)
+>> 8. [Stack Model (Final Model)](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/Stacking.ipynb)
 
 ## PERFORMANCE
 * The average performance of the model was measure using using the classification report which include precision, recall, f1-score and accuracy
 * The performance of all the model is included below
 ```Logistic Regression Performance```
-<img scr="img\logistic regression performance.JPG" width="350">
+<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/logistic%20regression%20performance.JPG" width="350">
 
 ```Random Forest Performance```
-<img scr="img\random forest performance.JPG" width="350">
+<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/random%20forest%20performance.JPG" width="350">
 
 ```Xgradient Boost Performance```
-<img scr="img\Xgradient boost performance.JPG" width="350">
+<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/Xgradient%20boost%20performance.JPG" width="350">
 
 ```Light Gradient Boost Performance```
-<img scr="img\light gradient boost performance.JPG" width="350">
+<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/light%20gradient%20boost%20performance.JPG" width="350">
 
 ```Stacking Performance```
-<img scr="img\stacking performance.JPG" width="350">
+<img scr="https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/img/stacking%20performance.JPG" width="350">
 
 
 ## DEPLOYMENT
