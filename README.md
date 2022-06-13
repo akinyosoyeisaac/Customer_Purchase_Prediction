@@ -54,8 +54,8 @@
 
 
 ### TOOLS
-[![Pandas](http://pandas.pydata.org/doc/)]
-[![Numpy](http://numpy.org/doc/stable/)]
-[![Sklearn](http://scikit-learn.org/stable/modules/classes.html)]
-[![Imblearn](http://imbalanced-learn.org/stable/user_guide.html)]
-[![Imblearn](http://matplotlib.org/stable/api/index.html)]
+[![Tools](https://img.shields.io/badge/Pandas-green.svg?style=flat&logo=pandas&logoColor=white)](http://pandas.pydata.org/doc/)
+[![Numpy](https://img.shields.io/badge/Numpy-green.svg?style=flat&logo=numpy&logoColor=white)](http://numpy.org/doc/stable/)
+[![Sklearn](https://img.shields.io/badge/Sklearn-green.svg?style=flat&logo=scikit-learn&logoColor=white)](http://scikit-learn.org/stable/modules/classes.html)
+[![Imblearn](https://img.shields.io/badge/imblearn-green.svg?style=flat&logo=imblanced-learn&logoColor=white)](http://imbalanced-learn.org/stable/user_guide.html)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-green.svg?style=flat&logo=matplotlib-learn&logoColor=white)](http://matplotlib.org/stable/api/index.html)
