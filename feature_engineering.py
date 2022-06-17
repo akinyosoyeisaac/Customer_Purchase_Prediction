@@ -1,5 +1,8 @@
+# importing necessary libraries
 import pandas as pd
 import numpy as np
+
+
 # Wrangling function for our test data which is an extract of the wrangling for the train data
 def wrangling_test(df):
     df = df
