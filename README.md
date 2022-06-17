@@ -50,6 +50,7 @@
 
 
 ## DEPLOYMENT
+* An app was created to allow is easy interraction with the developed model, this ```app``` was created by leveraging on the functionality of fastapi and uvicorn. Script used in developing this ```app``` include [app.py](), [feature_engineering.py]()
 * The final model which is the stack of random forest, xgradient boost, light gradient boost will be deployed on heruko
 
 
