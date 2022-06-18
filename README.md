@@ -9,7 +9,7 @@
 * The data of particular interest because of the value it can provide in helping business make informed decision and to properly categorize their customer base
 
 ## METADATA
-* The raw data consist of ```39161 rows(observations)``` and ```18 columns(features)```. The feature name are self explanatory and don't require any further note and can be found in [data exploration]().
+* The raw data consist of ```39161 rows(observations)``` and ```18 columns(features)```. The feature name are self explanatory and don't require any further note and can be found in [data exploration](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/data%20exploration.ipynb).
 * The data is class imbalance 
 * contain not a number value across two features
 
