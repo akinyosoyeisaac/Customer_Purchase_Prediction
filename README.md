@@ -50,7 +50,7 @@
 
 
 ## DEPLOYMENT
-* An app was created to allow is easy interraction with the developed model, this ```app``` was created by leveraging on the functionality of fastapi and uvicorn. Script used in developing this ```app``` include [app.py](), [feature_engineering.py]()
+* An app was created to allow is easy interraction with the developed model, this ```app``` was created by leveraging on the functionality of fastapi and uvicorn. Script used in developing this ```app``` include [app.py](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/app.py), [feature_engineering.py](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/feature_engineering.py)
 * The final model which is the stack of random forest, xgradient boost, light gradient boost will be deployed on heruko
 
 
@@ -59,4 +59,5 @@
 [![Numpy](https://img.shields.io/badge/Numpy-red.svg?style=flat&logo=numpy&logoColor=white)](http://numpy.org/doc/stable/)
 [![Sklearn](https://img.shields.io/badge/Sklearn-green.svg?style=flat&logo=scikit-learn&logoColor=white)](http://scikit-learn.org/stable/modules/classes.html)
 [![Imblearn](https://img.shields.io/badge/imblearn-blue.svg?style=flat&logo=imblanced-learn&logoColor=white)](http://imbalanced-learn.org/stable/user_guide.html)
-[![Matplotlib](https://img.shields.io/badge/matplotlib-yellow.svg?style=flat&logo=matplotlib-learn&logoColor=white)](http://matplotlib.org/stable/api/index.html)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-yellow.svg?style=flat&logo=matplotlib&logoColor=white)](http://matplotlib.org/stable/api/index.html)
+[![FastAPI](https://img.shields.io/badge/fastapi-yellow.svg?style=flat&logo=fastapi&logoColor=white)](http://matplotlib.org/stable/api/index.html)
