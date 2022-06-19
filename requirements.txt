@@ -6,3 +6,4 @@ imblearn==0.0
 scikit-learn==1.1.1
 xgboost==1.6.1
 lightgbm==3.3.2
+python-multipart
