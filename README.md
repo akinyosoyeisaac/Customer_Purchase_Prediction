@@ -51,7 +51,7 @@
 
 ## DEPLOYMENT
 * An app was created to allow is easy interraction with the developed model, this ```app``` was created by leveraging on the functionality of fastapi and uvicorn. Script used in developing this ```app``` include [app.py](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/app.py), [feature_engineering.py](https://github.com/akinyosoyeisaac/Customer_Purchase_Prediction/blob/main/feature_engineering.py)
-* The final model which is the stack of random forest, xgradient boost, light gradient boost will be deployed on heruko
+* The final model which is the stack of random forest, xgradient boost, light gradient boost will be deployed on heruko and can be access through this link [customer_purchase_predict](https://customer-purchase-predict.herokuapp.com/docs)
 
 
 ### TOOLS
@@ -61,3 +61,4 @@
 [![Imblearn](https://img.shields.io/badge/imblearn-blue.svg?style=flat&logo=imblanced-learn&logoColor=white)](http://imbalanced-learn.org/stable/user_guide.html)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-yellow.svg?style=flat&logo=matplotlib&logoColor=white)](http://matplotlib.org/stable/api/index.html)
 [![FastAPI](https://img.shields.io/badge/fastapi-yellow.svg?style=flat&logo=fastapi&logoColor=white)](http://matplotlib.org/stable/api/index.html)
+[![Heroku](https://img.shields.io/badge/heroku-yellow.svg?style=flat&logo=heroku&logoColor=white)](https://customer-purchase-predict.herokuapp.com/docs)
